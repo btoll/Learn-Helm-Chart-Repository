@@ -1,1 +1,1 @@
-# Learn-HelmChart-Repository
+# Learn-Helm-Chart-Repository
